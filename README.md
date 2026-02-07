@@ -2,6 +2,7 @@
 
 [![OWL](https://img.shields.io/badge/OWL-2.0-orange.svg)](https://www.w3.org/OWL/)
 [![RDF](https://img.shields.io/badge/RDF-Turtle-blue.svg)](https://www.w3.org/TR/turtle/)
+[![SysCRED](https://img.shields.io/badge/Integrated_in-SysCRED-blue)](https://github.com/DominiqueLoyer/systemFactChecking)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Ontologies OWL/RDF pour la vérification de crédibilité informationnelle**
